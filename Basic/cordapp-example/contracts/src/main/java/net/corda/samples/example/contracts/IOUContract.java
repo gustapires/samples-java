@@ -60,4 +60,5 @@ public class IOUContract implements Contract {
     public interface Commands extends CommandData {
         class Create implements Commands {}
     }
-}
+};
+;
